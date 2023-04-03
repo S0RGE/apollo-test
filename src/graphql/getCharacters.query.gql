@@ -1,0 +1,7 @@
+query getCharacters {
+  characters {
+    results {
+      name
+    }
+  }
+}
